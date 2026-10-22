@@ -47,5 +47,19 @@ How does attrition differ by marital status? → Attrition by Marital Status
 
 ## Analytical Highlights
 
+**Critical Attrition Rate:** Recorded a concerning 16.12% attrition with 237 employees leaving.
+
+**Sales Department Dominance:** Identified Sales as the top attrition driver at 66.29%.
+
+**Education Hotspot:** Found Bachelor’s Degree holders with the highest attrition (37).
+
+**Age Group Risk:** Detected peak turnover in the 25–34 age band.
+
+**Marital Status Impact:** Observed Married employees leading attrition with 271 exits.
+
+**Low Satisfaction Alert:** Registered a weak Job Satisfaction Rating of only 2.1.
+
+## Below is an in-depth analysis of each visual component:
+
 
 
