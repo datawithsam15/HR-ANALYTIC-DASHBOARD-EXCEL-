@@ -8,7 +8,7 @@ Identify education-wise attrition across degree levels.
 
 Evaluate attrition by job role to find high-risk positions.
 
-Analyze department-wise attrition to highlight Sales, R&D, and HR.
+Analyze department-wise attrition to highlight R&D, and HR.
 
 Examine attrition by age group to spot vulnerable age bands.
 
