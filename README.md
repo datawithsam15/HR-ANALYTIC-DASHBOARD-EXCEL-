@@ -143,7 +143,51 @@ Divorced: 134
 
 **Insight:** Married employees show the highest absolute attrition numbers, followed by Single employees. While absolute numbers are highest among Married staff, the relative risk by marital status would require comparing against the overall population distribution to determine true risk rates.
 
+## Overall Insight
+The dashboard reveals a clear and concerning retention problem concentrated in Research and Development, among employees holding Bachelor’s and Master’s degrees, Laboratory Technicians, Sales Executives, and younger staff (especially those aged 25–34).
+With an attrition rate of 16.12% and a low average job satisfaction rating of only 2.6 out of 5, the issues appear systemic rather than isolated. Priority should be given to strengthening talent retention in Research and Development, improving early-to-mid career development opportunities, and addressing the underlying drivers of low job satisfaction across the organization.
 
+## Recommendations
+
+**Prioritize Research and Development Retention:**
+Conduct focused exit interviews and stay interviews specifically within Research and Development. Review compensation, career progression paths, workload, and recognition programs for Laboratory Technicians and Research Scientists, as these roles show the highest attrition volume.
+
+**Strengthen Early-Career Talent Programs:**
+Introduce structured mentorship, clear career pathways, and competitive early-career packages for employees aged 25–34 (the highest attrition age group). Consider accelerated development tracks for high-potential Bachelor’s and Master’s degree holders.
+
+**Address Low Job Satisfaction**
+Investigate the root causes behind the 2.6/5 job satisfaction rating through anonymous pulse surveys and focus groups. Act on the top drivers of dissatisfaction (e.g., leadership, workload, recognition, work-life balance).
+
+**Review Sales Roles:**
+Analyze the working conditions, targets, and incentive structures for Sales Executives and Sales Representatives, as these roles also contribute significantly to attrition.
+
+**Gender and Diversity Considerations**
+Explore whether the current male-dominated workforce (especially in high-attrition areas) is contributing to retention challenges, and ensure inclusive policies and development opportunities for all genders.
+
+**Monitor and Measure Progress**
+Set clear retention KPIs by department, age group, education level, and job role. Review the dashboard monthly and track the impact of interventions on the overall attrition rate and job satisfaction score.
+
+**Conclusion**
+The HR Analytic Dashboard highlights a significant retention challenge, particularly within Research and Development and among younger, highly educated employees. With an attrition rate of 16.12% and a low job satisfaction score of 2.6, the organization faces a clear risk of losing critical talent.
+By taking targeted action in Research and Development, improving early-career development, and addressing the underlying causes of low satisfaction, the company can reduce attrition, protect institutional knowledge, and build a more engaged and stable workforce.
+
+**TOOL USED**
+
+**Data Cleaning and Preparation:** Excel Power Query
+
+**Data Analysis:** Excel Power Pivot
+
+**Data Visualization and Dashboard Creation:** Excel PivotTables, PivotCharts, and Slicers
+
+**Technique Applied**
+
+Data Cleaning and Transformation
+
+Data Modeling Using Power Pivot
+
+Pivot Table Analysis and Aggregation
+
+Interactive Dashboard Development Using PivotCharts and Slicers
 
 
 
